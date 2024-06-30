@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ScreenManger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky Enemy
+    uniqueID: 1880326779
+    locked: 0
+  - name: Covered Enemy
+    uniqueID: 37306335
+    locked: 0
+  - name: Cover
+    uniqueID: 1613538493
+    locked: 0
+  - name: OtherCover
+    uniqueID: 1296371525
+    locked: 0
+  - name: Exposed Enemy
+    uniqueID: 2050743019
+    locked: 0
